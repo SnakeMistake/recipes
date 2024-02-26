@@ -83,7 +83,7 @@ navbar a:hover {
 .grid-container {
     display:grid;
     position:absolute;
-    top:440px;
+    top:500px;
     left:10%;;
     width:75%;
     grid-template-columns: 30% 30% 30%;
